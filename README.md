@@ -36,6 +36,9 @@ Here's a glimpse of what you can expect:
 
 ## Getting Started
 
-To get started with the Intermediate Python module, make sure you have Python installed on your system. You can download the latest version of Python from the official website: [python.org](https://www.python.org).
+To get started with the Intermediate Python module, make sure you have Python installed on your system. We'll go through this in the VS Environment Setup together in class, but you always have the PDF attached here for reference.
 
 Clone this repository to your local machine using the following command:
+```
+https://github.com/manutej/Int_Python_Day1.git
+```
